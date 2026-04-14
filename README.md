@@ -56,7 +56,9 @@ src/
 4. Crear usuario y contraseña  
 5. Copiar la cadena de conexión  
 
-🚀 Ejecución del proyecto
+---
+
+## 🔌🚀 Ejecución del proyecto
 Ejecutar la clase principal
 <img width="773" height="438" alt="image" src="https://github.com/user-attachments/assets/b732d2fb-d2c9-4d05-80cf-4e2ed315e818" />
 
@@ -69,17 +71,23 @@ Presionar el botón GUARDAR
 Verificar datos en MongoDB Atlas
 <img width="643" height="155" alt="image" src="https://github.com/user-attachments/assets/f5642679-9f59-4edf-a86d-fd6d7b52acc9" />
 
-🧠 Conceptos aplicados
+---
+
+## 🔌🧠 Conceptos aplicados
 Programación orientada a objetos
 Hilos en Java (Thread)
 Arquitectura en capas (DAO, Modelo, Vista)
 Base de datos NoSQL
 
-📚 Bibliografía
+---
+
+## 🔌📚 Bibliografía
 MongoDB (s.f.). MongoDB Atlas Documentation. https://www.mongodb.com/docs/atlas/
 Oracle (s.f.). Java Documentation. https://docs.oracle.com/en/java/
 Lombok (s.f.). Project Lombok. https://projectlombok.org/
 
-👩‍💻 Autor
+---
+
+## 🔌👩‍💻 Autor
 
 Proyecto desarrollado por: Jhosselin Naula
